@@ -1,3 +1,5 @@
+<?php
+?>
 <div class="fotter">
 	<div class="container">
 		<div class="fotter-grids">
