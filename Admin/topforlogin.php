@@ -1,4 +1,6 @@
-	 <div class="header-top">
+<?php
+?>
+<div class="header-top">
 		 <!--container-->
 		  <div class="container">
 			 <div class="top-nav">
