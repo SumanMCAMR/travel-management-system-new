@@ -1,3 +1,5 @@
+<?php
+?>
 <div class="copyright text-right">
 	<p style="padding-right:100px">Developed By: &copy; Suman</p>
 </div>
